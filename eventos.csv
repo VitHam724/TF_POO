@@ -1,0 +1,6 @@
+id;titulo;descricao;data;local;capacidade;preco_base;horario_inicio
+E001;Festival de Jazz;Apresentacoes musicais;2026-11-14;Auditorio Central;120;100.00;19:00
+E002;Feira de Tecnologia;Exposicoes e palestras;2026-11-21;Centro de Eventos;200;80.00;09:00
+E003;Campeonato Universitario;Competicoes esportivas;2026-12-05;Ginasio;100;50.00;14:00
+E004;Mostra de Cinema;Sessoes de curtas-metragens;2026-09-12;Sala de Cinema;90;40.00;18:00
+E005;Encontro de Literatura;Mesas e debates;2026-12-12;Biblioteca;60;60.00;20:00
